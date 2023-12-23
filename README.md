@@ -8,7 +8,6 @@ My first simple web app that calculates volume, surface area, and radius of a sp
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-![rating](https://img.shields.io/badge/Score-100%2F100-green)
 
 Feel free to access the web through this [link](https://streamlitsphere.herokuapp.com/) 😄
 
