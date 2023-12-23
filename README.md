@@ -1,7 +1,7 @@
 # Sphere Calculator
 ![logos](https://user-images.githubusercontent.com/92590596/145370302-c347f198-2c6c-4d18-aa4a-0ccec280fafb.png) 
 
-My first simple web app that calculates volume, surface area, and radius of a sphere. The app was created by python using streamlit library and deployed using Heroku. This mini-project was done to gain basic understanding of Python functions and data types. I took it a step further, however, by combining all of those in a simple web application to also learn web deployment. Was scored 100/100 by my mentor at dibimbing.id, as he said "*bro i can easily give you 100. perfect*".
+My first simple web app that calculates volume, surface area, and radius of a sphere. The app was created by python using streamlit library and deployed using Heroku. This mini-project was done to gain basic understanding of Python functions and data types. I took it a step further, however, by combining all of those in a simple web application to also learn web deployment. 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![IDE](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
